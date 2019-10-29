@@ -1,4 +1,4 @@
-# The Challenge - Towers of Hanoi
+# Retirement Calculator
 
 Let’s plan our retirement! As you’ve probably heard, the magic of “compound interest” is powerful. For example, let’s imagine that you save $5,000/year for 10 years. You’ll have $50k! However, if you invested $5k/year for 10 years with an 8% return on your investement (market rate), you would have over almost $80k! So how do we calculate compound interest? Well, it works sort of like this.
 
